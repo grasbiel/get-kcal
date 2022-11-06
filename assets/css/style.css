@@ -86,6 +86,8 @@ header {
     background: #1a1a1a;
     border-radius: 5px;
     padding: 15px;
+
+    margin-bottom: 20px;
 }
 
 .result-content ul {
